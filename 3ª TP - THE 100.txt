@@ -115,29 +115,12 @@
 <genre></genre>
 </item>
 
-item>
-<title>[B]14º EPISÓDIO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Io_GSn9PBS-e9ivlQ7xgabB_XqjT-bFz/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hTExot1sfn7dHZjGrk0Aiwpntxt.jpg</fanart>
-<info>Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
-<genre></genre>
-</item>
 
-item>
-<title>[B]15º EPISÓDIO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1DC3wokLJdXRDk_F90sa2taBryXzpju9s/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hTExot1sfn7dHZjGrk0Aiwpntxt.jpg</fanart>
-<info>Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
-<genre></genre>
-</item>
-
-item>
-<title>[B]16º EPISÓDIO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1CmwIcufYNt8LNFrMEU0KmCwwyKLKSI-y/view</link>
-<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail>
-<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hTExot1sfn7dHZjGrk0Aiwpntxt.jpg</fanart>
-<info>Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
+<item>
+<title>[B]20º EPISÓDIO[/B]</title>
+<link>https://867336965.tapecontent.net/radosgw/apjklpabp3IOka/pf7PZUM_KmuQrHGFcUDMTPv0wty35VnIaYnJtbomXm88RGC6crq3l70NsrI831Tbd-fVupSC2xl1qtp8AcUl7vIBhGrShSxgb9KYSSEWM7g57HDTmlpNXKt8NMcnGtx740_EPqo5ohxEY8MOdiv35jHNb62mBmqly5-d22RwdJs9ShIQYe2hYGWOkJxldkqoTI3NjvtWuCxwRzcvK6ADHg9__vjBuTRtg7NAyDwlbn0toUiCzLpCKserULNJBoRjSdxGBTyKgqb7uG-o/71712-3-20.mkv.mp4?stream=1</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/ucMdbTpOhV75R0NtxqHEg4hirNl.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/mZjZgY6ObiKtVuKVDrnS9VnuNlE.jpg</fanart>
+<info>Um jovem médico com autismo começa a trabalhar em um famoso hospital. Além dos desafios da profissão, ele terá também que provar sua capacidade a seus colegas e superiores.</info>
 <genre></genre>
 </item>
