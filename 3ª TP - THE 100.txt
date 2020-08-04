@@ -115,9 +115,29 @@
 <genre></genre>
 </item>
 
-item>
+MODELO UNIVERSAL DE APENAS UM LINK - LINK DIRETO
+
+<item>
 <title>[B]14º EPISÓDIO[/B]</title>
-<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1Io_GSn9PBS-e9ivlQ7xgabB_XqjT-bFz/view</link>
+<link>https://netvirtua.azureedge.net/RCServer11/ondemand/THE100T03EP14.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hTExot1sfn7dHZjGrk0Aiwpntxt.jpg</fanart>
+<info>Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]15º EPISÓDIO[/B]</title>
+<link>https://netvirtua.azureedge.net/RCServer11/ondemand/THE100T03EP15.mp4?attachment=true</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hTExot1sfn7dHZjGrk0Aiwpntxt.jpg</fanart>
+<info>Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]15º EPISÓDIO[/B]</title>
+<link>https://netvirtua.azureedge.net/RCServer11/ondemand/THE100T03EP16.mp4?attachment=true</link>
 <thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/cfhfcEt4bOXuVZkTC0nNBpqqiWb.jpg</thumbnail>
 <fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/hTExot1sfn7dHZjGrk0Aiwpntxt.jpg</fanart>
 <info>Quase 100 anos após um apocalipse nuclear devastar a Terra, 100 sobreviventes de uma estação espacial voltam para avaliar as condições do planeta.</info>
