@@ -1,0 +1,116 @@
+<item>
+<title>[B]1º EPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1TldxzRUfMKi4Wnwyh9N3Pn3-ux1vOUUn/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]2º EPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1p2t70bN_kfdyL5NNUweMcuZKQXlQNkDt/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]3ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1wI-2HDuHcn-brd_HImhTkS7SE7dsmSBk/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]4ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EWNT1SxWJL1u_iqYbuNFa6CwARDJS7vM/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]5ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1EqeCv_kPlkZ-Yn0Bn6LNJEjuEdmUTaOb/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]6ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1hpqh1wTXDvm6Uw5jw3-7P7iur1gOo92g/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]7ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1guEUkncKZ6IBRBSM3GwFRSjDvWp6eNaX/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]8ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1WDNVmBboSNgRFzBUc5g5Q5P3BGMrZRkQ/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]9ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1whnmbM-rljS733oqynm9eIwmHkhEoKP9/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]10ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1BXh8B1zpfVrkrRsW3CnZlJvKoBayplF4/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]11ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/16Day_KCci9RwFNXf53rl65sbByfvNdIB/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]12ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1yS-t1TlNXmQqximD9V18L3RTAPV4avm_/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
+
+<item>
+<title>[B]13ºEPISÓDIO[/B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/18CxU60gJv6DKpvsF-QuFEuFOEVWfkwVh/view</link>
+<thumbnail>https://image.tmdb.org/t/p/w600_and_h900_bestv2/roFJeeBbcFYCaTfmKaCQ7wtCT5l.jpg</thumbnail>
+<fanart>https://image.tmdb.org/t/p/w533_and_h300_bestv2/tIYb76SgqjUJ6XLFwBrk4gvGNtn.jpg</fanart>
+<info>Os heróis e vilões icônicos de The Vampire Diaries e The Originals deixaram um legado duradouro de amor e família, que continua em LEGACIES, um drama emocionante que conta a história da próxima geração de seres sobrenaturais na The Salvatore School for the Young e talentoso.</info>
+<genre></genre>
+</item>
